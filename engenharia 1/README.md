@@ -54,7 +54,10 @@ Resumo texto 2:
 ADA x C++:
 
 -A Linguagem ADA melhora a segurança e manutenibilidade do código, tipagem forte e com isso não é amplamente usada.
-- C++, uso de ponteiros, não tão minuciosa porem amplamente conhecida e usada. 
+- C++, uso de ponteiros, não tão minuciosa porem amplamente conhecida e usada.
+
+  07/03/2025 - comentario da imagem:
+  O MVP - Minimum viable product, é uma definição importante quando se trata de entregas de valor ao cliente. É necessario, desenvolver algo que seja util e viavel em todas as entregas ainda que simples, mantendo a visão clara do que o produto pode vir a se tornar em sua forma  final.
  
 
 
