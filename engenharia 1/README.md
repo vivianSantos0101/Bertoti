@@ -1,4 +1,6 @@
 # Bertoti
+
+Atividade 1:
 texto 1:
 
 What precisely do we mean by software engineering? What distinguishes “software engineering” from “programming” or “computer science”? And why would Google have a unique perspective to add to the corpus of previous software engineering literature written over the past 50 years?
@@ -13,6 +15,7 @@ Resumo texto 1:
 
 A engenharia de software é menos tangivel que as outras engenharias, contudo, não é menos complexa ou importante, sua criação foi primordial para as tecnologias que surgiram nas novas gerações.
 
+Atividade 2:
 
 texto 2:
 Programming Over Time
@@ -35,7 +38,7 @@ Resumo texto 2:
 
  A diferença entre a Engenharia de Software e a programação em si, esta no fato de que a idealização, arquitetura e planejamento de um codigo, seja mais ordenado, claro, reutilizavel e aplicavel. Para que, no futuro, o  crescimento/desenvolvimento do codigo seja progressivo. E na engenharia, os metodos organizacionais, são essenciais para evitar que os codigos/sistemas/softwares se tornem obsoletos.
 
-
+Atividade 3:
  TRADE-OFF, 3 exemplos:
 
  linux x windows: 
@@ -56,10 +59,11 @@ ADA x C++:
 -A Linguagem ADA melhora a segurança e manutenibilidade do código, tipagem forte e com isso não é amplamente usada.
 - C++, uso de ponteiros, não tão minuciosa porem amplamente conhecida e usada.
 
+Aividade 4:
   07/03/2025 - comentario da imagem:
-  O MVP - Minimum viable product, é uma definição importante quando se trata de entregas de valor ao cliente. É necessario, desenvolver algo que seja util e viavel em todas as entregas ainda que simples, mantendo a visão clara do que o produto pode vir a se tornar em sua forma  final.
+  O MVP - Minimum viable product, é uma definição importante quando se trata de entregas de valor ao cliente. É necessario, desenvolver algo que seja util e viavel em todas as entregas ainda que simples, mantendo a visão clara do que o produto pode vir a se tornar em sua forma final.
  
-
+atividade 5:
 
 
 
