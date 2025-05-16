@@ -64,6 +64,9 @@ Aividade 4:
   O MVP - Minimum viable product, é uma definição importante quando se trata de entregas de valor ao cliente. É necessario, desenvolver algo que seja util e viavel em todas as entregas ainda que simples, mantendo a visão clara do que o produto pode vir a se tornar em sua forma final.
  
 atividade 5:
+ ![Captura de tela 2025-05-16 073807](https://github.com/user-attachments/assets/1bf4192b-52b2-4296-9653-601a26dce3b7)
+ ![Captura de tela 2025-05-16 074522](https://github.com/user-attachments/assets/b729078a-5025-4f08-a29b-625e2a714b5a)
+
 
 
 
